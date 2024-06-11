@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 3.3.2">
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="109"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="147"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="185"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="223"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="261"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="299"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="337"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="375"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="413"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="451"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="489"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="527"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="565"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="603"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="641"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="679"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="717"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="755"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="793"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="831"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="869"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="907"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="945"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="983"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="1021"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="1059"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView17`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                        android:id=&quot;@+id/textView17&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="1097"
+            column="25"/>
+        <location
+            file="C:\Users\vguru\OneDrive\Desktop\Mini Project\Project Code\res\layout\activity_pesticides.xml"
+            line="71"
+            column="25"/>
+    </issue>
+
+</issues>
